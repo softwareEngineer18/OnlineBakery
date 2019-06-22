@@ -1,0 +1,276 @@
+<!DOCTYPE>
+<html>
+<head> <title> Kids Birthday </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+
+body{
+	background-image:url("bg6.png");
+	
+}
+table
+{
+  width:80%;
+  height:150%;
+  background-color:white;
+  margin-left:150px;
+  }
+h1{
+	color:maroon;
+	font-family:Varela Round;
+	text-transform:uppercase;
+	font-size:40px;
+	text-align:center;
+	display:inline;
+	}
+.nav{
+	width:70%;
+	background-color:White;
+	height:100px;
+	margin-top:100px;
+	opacity:0.8;
+}
+ol{
+	padding:0;
+	margin:0;
+	position:absolute;
+}
+li{
+	float:left;
+	margin-top:20px;
+}
+li::before {
+  content: "• ";
+  color: white; 
+  margin-right:4px;
+}
+a{
+	width:90px;
+	color:696969;
+	display:block;
+	text-decoration:none;
+	font-size:15px;
+	text-align:center;
+	padding:10px;
+	border-radius:20px;
+	font-family:Century Gothic;
+}
+a:hover{
+	color:#f96;
+	background-color:black;
+	transition:0.6s;
+}
+.img1{
+	width:70%;
+	display:block;
+	margin:0 auto 0 auto;
+	}
+	.img3
+	{
+	max-width: 100%;
+    height: auto;
+	
+	}
+	.font{
+	font-size:15px;
+	font-family:"Georgia","serif";
+	
+	}
+	.font1{
+	font-size:15px;
+	font-family:"Georgia","serif";
+	text-decoration:overline;
+	
+	}
+	.img2{
+	width:30px ;
+	height:30px;
+	border-radius:8px;
+	padding-top:50px;
+	padding-right:40px;
+	padding-bottom:30px;
+	
+	}
+	.sep
+	
+	
+	
+
+</style>
+<link href="style.css" type="text/css" rel="stylesheet"></link>
+</head>
+
+<body>
+<div style="width:1070;background-color:white;margin-left:120px;margin-top:10px" align=center >
+
+<div style="height: 200px;">
+<img src="enhanced.JPG" width="190px" height="190px" style="margin-top:10px;margin-right:20px;"><h1 style="margin-left:0px;margin-bottom:80px;font-size:60px;position:relative;top:-110px;font-family:Comic Sans MS">BAKERY'S </h1><h2 style="margin-left:330px;position:relative;top:-170px;font-size:54px;color:maroon;font-family:Comic Sans MS">BEST</h2>
+</div>
+
+
+<div class="nav" style="position:relative;top:-115px;width:1070;margin-left:0px">
+<ol style="color:white">
+<li> <a href="#"> Home </a> </li>
+<li> <a href="#"> Our Products</a> </li>
+<li> <a href="#"> Cakes </a> </li>
+<li> <a href="#"> Custom </a> </li>
+<li> <a href="#"> Delivery Information </a> </li>
+<li> <a href="#"> Offerings </a> </li>
+<li> <a href="#"> Gallery </a> </li>
+<li> <a href="#"> About </a> </li>
+<li> <a href="#"> Contact Us </a> </li>
+</ol>
+</div>
+<div style="background-color:white;position:relative;top:-110px;width:1070px;height:1000px">
+<div style="width:1070;height:200px;position:relative;top:0px;>
+<img src="capture.png" style="width:1070px;height:250px" >
+<div style="position:relative;top:-70px;font-size:4em;">
+<p align="center">Kids Birthday</p>
+</div>
+<br></br>
+<div style="width:300px;height:340px;position:relative;top:-140px;right:350px">
+<img src="k1.jpg" style="width:250px;height:280px;margin-top:20px" >
+</div>
+<div style="width:300px;height:340px;position:relative;top:-490px;right:5px">
+<img src="k2.jpg" style="width:250px;height:280px;margin-top:20px" >
+</div>
+<div style="width:300px;height:340px;position:relative;top:-830px;right:-350px">
+<img src="k3.jpeg" style="width:250px;height:280px;margin-top:20px" >
+</div>
+<div style="width:300px;height:340px;position:relative;top:-835px;right:350px">
+<img src="k4.jpg" style="width:250px;height:280px;margin-top:20px" >
+</div>
+<div style="width:300px;height:340px;position:relative;top:-1178px;right:5px">
+<img src="k5.jpg" style="width:250px;height:280px;margin-top:20px" >
+</div>
+<div style="width:300px;height:340px;position:relative;top:-1520px;right:-350px">
+<img src="k6.jpg" style="width:250px;height:280px;margin-top:20px" >
+</div>
+<div style="width:300px;height:340px;position:relative;top:-1532px;right:350px">
+<img src="k7.jpg" style="width:250px;height:280px;margin-top:20px" >
+</div>
+<div style="width:300px;height:340px;position:relative;top:-1875px;right:5px">
+<img src="k8.jpg" style="width:250px;height:280px;margin-top:20px" >
+</div>
+<div style="width:300px;height:340px;position:relative;top:-2215px;right:-350px">
+<img src="k9.jpg" style="width:250px;height:280px;margin-top:20px" >
+</div>
+
+</div>
+</div>
+
+
+
+
+<div id="footer" style="
+    background:white;
+    margin-bottom: 26%;
+    ">
+        <div id="footer-text">
+          <p class="MsoNormal" align="center" style="text-align:center;">
+            <span style="font-size: 18pt;font-family: Cuckoo;Nexa Light&quot;;color: #515151;font-weight:  bold;">FOR ORDERS AND INQUIRIES PLEASE CONTACT</span> <u></u><u></u></p>
+        </div>
+
+        <div id="footer-top" style="position: relative;">
+
+          <div id="profile-pic" style="float:  left;margin-left: 20px;">
+            <img src="enhanced.JPG" width="188" height="188" alt="" title="" style="margin: 0;padding: 0;display: block;border: none;outline: none;text-decoration: none;height: auto;-ms-interpolation-mode: bicubic;">
+          </div>
+          <div id="name" style="float:  left;margin-left: 30px;">
+            <p class="MsoNormal" align="center" style="text-align:center;margin-top: 50px;">
+            <span style="font-size: 25pt;font-family: Nexa;font-weight:  bold;color: #861B19;">Bakery's Best</span>
+            </p>
+          </div>
+          
+          <div id="tel" style="float:  left;margin-top: 100px;position: absolute;margin-left: 240px;">
+            <img src="tel.png" style="width: 29px;height:  29px;">
+            <p class="MsoNormal" style="/* text-align:center; */float:  right;margin-left: 5px;margin-top: 5px;">
+            <span style="font-size: 15pt;font-family: &quot;Nexa Light&quot;;color: #3b3b3b;float:  left;font-weight:  bold;">+92 312 538 9443</span>
+            </p>
+          </div>
+          <div id="email" style="float:  left;margin-top: 140px;position: absolute;margin-left: 240px;">
+            <img src="msg.png" style="width: 29px;height:  29px;">
+            <p class="MsoNormal" style="/* text-align:center; */float:  right;margin-left: 5px;margin-top: 5px;">
+            <span style="font-size: 15pt;font-family: &quot;Nexa Light&quot;;color: #3b3b3b;float:  left;font-weight:  bold;">abdeenfoods@gmail.com</span>
+            </p>
+          </div>
+          <div id="qa-code" style="float: right;margin-right: 30px;margin-top: 50px;">
+            <img src="download.png" width="146" height="146" alt="" title="" style="margin: 0;padding: 0;display: block;border: none;outline: none;text-decoration: none;height: auto;-ms-interpolation-mode: bicubic;">
+          </div>
+        </div>
+
+        
+
+        
+       
+  </div>
+  <div class="nav" style="position:relative;top:-70px;width:1070;margin-left:0px">
+<ol style="color:white">
+<li> <a href="#"> Home </a> </li>
+<li> <a href="#"> Our Products</a> </li>
+<li> <a href="#"> Cakes </a> </li>
+<li> <a href="#"> Custom </a> </li>
+<li> <a href="#"> Delivery Information </a> </li>
+<li> <a href="#"> Offerings </a> </li>
+<li> <a href="#"> Gallery </a> </li>
+<li> <a href="#"> About </a> </li>
+<li> <a href="#"> Contact Us </a> </li>
+</ol>
+</div>
+<div style="position:relative;top:-50px;padding-bottom:20px">
+<hr>
+<b>
+<p style="position:relative;top:0px;padding-bottom:20px;margin-left:0px;font-size:20px;font-family:Arial;color:maroon"> Get Social </p></b>
+<!-- <img src="fblogo.png" class="img2">
+<img src="instalogo.png"  class="img2" >
+<img src="gmaillogo.png"  class="img2"> -->
+
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-instagram"></a>
+<a href="#" class="fa fa-google"></a>
+
+
+</div>
+<div style="position:relative;top:-50px">
+	CopyRight &copy 2018 All Rights Reserved : Bakery's Best
+ </div>
+
+
+</div>
+
+
+
+</div>
+</body>
+</html>
